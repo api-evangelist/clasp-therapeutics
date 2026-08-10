@@ -1,0 +1,54 @@
+# Clasp Therapeutics
+
+> Clasp Therapeutics, Inc. is a clinical-stage precision immuno-oncology company in Cambridge,
+> Massachusetts and Rockville, Maryland, developing next-generation T cell engagers (TCEs) on its
+> proprietary pHLAre platform, which redirects T cells to mutant peptides — p53 R175H, mutant KRas —
+> presented by specific HLA molecules on tumor cells. Lead candidate CLSP-1025 is in the Phase 1
+> GUARDIAN-101 trial (NCT06778863); CLSP-5282, a KRas-directed TCE, was unveiled at AACR 2026.
+> Clasp Therapeutics publishes **no public API, developer portal, SDK, or machine-readable
+> specification** — its product is a therapeutic, not software.
+
+## Company
+
+- [Homepage](https://www.clasptx.com/): pHLAre platform, pipeline, and company overview.
+- [Leadership Team](https://www.clasptx.com/leadership-team): Executive team.
+- [Founders](https://www.clasptx.com/founders): Johns Hopkins scientific founders, including Bert Vogelstein, Drew Pardoll, Kenneth Kinzler, Shibin Zhou, Kellie Smith and Nick Papadopoulos.
+- [Board of Directors](https://www.clasptx.com/board-of-directors): Board composition.
+- [Privacy Policy](https://www.clasptx.com/privacy-policy): Site privacy policy.
+- [LinkedIn](https://www.linkedin.com/company/clasp-therapeutics/): Company profile.
+
+## Science and pipeline
+
+- [pHLAre platform](https://www.clasptx.com/): Precision HLA-redirecting T cell engagers targeting tumor-exclusive mutant peptide/HLA complexes.
+- CLSP-1025: TCE targeting the p53 R175H mutant peptide presented by HLA-A*02:01; Phase 1 GUARDIAN-101.
+- CLSP-5282: First-in-class KRas-directed T cell engager, presented at AACR 2026.
+- [GUARDIAN-101 (NCT06778863)](https://clinicaltrials.gov/study/NCT06778863): Phase 1 trial record on ClinicalTrials.gov.
+
+## News and publications
+
+- [Press Releases & Publications](https://www.clasptx.com/press-release-publications): Company announcements, conference presentations and publications.
+- [RSS feed](https://www.clasptx.com/press-release-publications?format=rss): Machine-readable feed of the above.
+
+## Contact
+
+- General: info@clasptx.com
+- Partnerships: partner@clasptx.com
+- Media: media@clasptx.com
+- Careers: careers@clasptx.com
+
+## API surface
+
+Clasp Therapeutics has no public API surface. Probed 2026-08-09 against `https://www.clasptx.com`,
+all HTTP 404: `/openapi.json`, `/openapi.yaml`, `/swagger.json`, `/v1/openapi.json`, `/api-docs`,
+`/docs`, `/redoc`, `/api`, `/graphql`, `/developers`, `/developer`, `/api-documentation`,
+`/llms.txt`, `/.well-known/security.txt`, `/.well-known/openid-configuration`,
+`/.well-known/oauth-authorization-server`, `/.well-known/api-catalog`, `/.well-known/ai-plugin.json`,
+`/.well-known/agent-card.json`, `/.well-known/agent.json`. The site is a Squarespace marketing
+site whose 41-URL sitemap covers only leadership, founders, board, press releases and the privacy
+policy. The hosts `api.`, `developer.`, `developers.`, `docs.`, `portal.`, `app.`, `status.` and
+`trust.clasptx.com` do not resolve in DNS.
+
+## API Evangelist artifacts
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/clasp-therapeutics/refs/heads/main/apis.yml): APIs.json 0.20 profile for Clasp Therapeutics.
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/clasp-therapeutics/refs/heads/main/security/clasp-therapeutics-domain-security.yml): Probed TLS, HSTS, DNSSEC, CAA, SPF and DMARC posture.
