@@ -1,0 +1,21 @@
+{
+  "repo": "clasp-therapeutics",
+  "feeds": [
+    {
+      "source": "https://www.clasptx.com/",
+      "feed_url": "https://www.clasptx.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.clasptx.com/press-release-publications",
+      "feed_url": "https://www.clasptx.com/press-release-publications?format=rss",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-15T12:22:01Z"
+}
