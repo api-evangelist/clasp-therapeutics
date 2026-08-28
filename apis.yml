@@ -15,6 +15,17 @@ description: 'Clasp Therapeutics, Inc. is a clinical-stage precision immuno-onco
   therapeutics developer and publishes no public API, developer program, SDK, or
   machine-readable specification.'
 url: https://raw.githubusercontent.com/api-evangelist/clasp-therapeutics/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: http://static1.squarespace.com/static/65d6268f8ea1f7001e49412c/t/65dea444ac80a07c1b522dbc/1709089860325/Clasp-logo-white-RGB.png?format=1500w
 x-type: company
 x-source: harvest:secondary-market
