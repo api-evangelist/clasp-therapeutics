@@ -26,6 +26,18 @@ deliveryModel:
   - none
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: http://static1.squarespace.com/static/65d6268f8ea1f7001e49412c/t/65dea444ac80a07c1b522dbc/1709089860325/Clasp-logo-white-RGB.png?format=1500w
 x-type: company
 x-source: harvest:secondary-market
